@@ -20,7 +20,7 @@ cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: Catbook
+  name: Tipos de Actuadores
   pic: /assets/img/micro.jpg
   picAlt: "Tipos de Actuadores"
   job: Sistemas Programables
